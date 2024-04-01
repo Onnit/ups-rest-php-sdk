@@ -149,3 +149,4 @@ Note that the HTTP Client **must not** throw exceptions for 4xx and 5xx response
 The classes under the `ShipStream\Ups\Api` namespace are all generated using [janephp](https://jane.readthedocs.io/en/latest/index.html). 
 
 Run the `generate.sh` script to regenerate the classes when needed.
+
